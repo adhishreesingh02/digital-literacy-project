@@ -4,7 +4,7 @@ As a college student, I feel that using social media responsibly is very importa
 
 ---
 
-## ✅ Do’s
+## Do’s
 
 - **Be respectful while interacting online:** Always communicate politely, even if you have a different opinion.  
 - **Check information before sharing:** I try to verify news or posts before forwarding them to avoid spreading fake information.  
@@ -15,7 +15,7 @@ As a college student, I feel that using social media responsibly is very importa
 
 ---
 
-## ❌ Don’ts
+## Don’ts
 
 - **Do not share fake or unverified information:** Forwarding without checking can create confusion.  
 - **Avoid sharing personal details publicly:** Information like phone numbers or location should be kept private.  
@@ -26,6 +26,6 @@ As a college student, I feel that using social media responsibly is very importa
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 In my opinion, responsible use of social media is very important for students today. By following these simple practices, we can stay safe online and also maintain a positive digital presence for the future.
