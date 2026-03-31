@@ -59,7 +59,7 @@ Created an infographic using Canva covering:
 
 Developed professional profiles on:
 
-* GitHub : []  
+* GitHub : [https://github.com/adhishreesingh02]  
 * LinkedIn : [www.linkedin.com/in/adhishree-singh-608b073b9]  
 * Kaggle : [https://www.kaggle.com/adhishreesingh22]  
 
